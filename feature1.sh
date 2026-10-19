@@ -1,2 +1,2 @@
-#Feature1 by QuintaKhatoro
+#Feature1 by QuintaKhatoroGI
 
